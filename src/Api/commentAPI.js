@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const baseUrl = "http://localhost:4000/api/comment/article/";
+const baseUrl = "https://api-groupomania.herokuapp.com/api/comment/article/";
 
 export default {
 

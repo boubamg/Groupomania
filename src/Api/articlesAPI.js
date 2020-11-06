@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const baseUrl = "http://localhost:4000/api/article";
+const baseUrl = "https://api-groupomania.herokuapp.com/api/article";
 
 export default {
 
@@ -25,7 +25,7 @@ export default {
     },
 
     likeArticle : (id, headers) => {
-        return axios.post("http://localhost:4000/api/like/article/" + id, {} , {headers})
+        return axios.post("https://api-groupomania.herokuapp.com/api/like/article/" + id, {} , {headers})
     }
 
 }
