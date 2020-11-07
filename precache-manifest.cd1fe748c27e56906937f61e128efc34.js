@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "103625718cbc9ec6daf9a876c98eb536",
+    "revision": "b48f3029153486b7a35d7cf4075c24f1",
     "url": "/Groupomania/index.html"
   },
   {
-    "revision": "3627db831921d8f3ecff",
+    "revision": "e34eb3901efd5e3c5a5f",
     "url": "/Groupomania/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "8a81b9ef6e2075bfbebb",
+    "revision": "6f6a26333d5db3a49b6f",
     "url": "/Groupomania/static/css/main.6af1e7f7.chunk.css"
   },
   {
-    "revision": "3627db831921d8f3ecff",
-    "url": "/Groupomania/static/js/2.ad5919f7.chunk.js"
+    "revision": "e34eb3901efd5e3c5a5f",
+    "url": "/Groupomania/static/js/2.774bfddb.chunk.js"
   },
   {
     "revision": "5e9b6f5c16b720e8a86875f97734673e",
-    "url": "/Groupomania/static/js/2.ad5919f7.chunk.js.LICENSE.txt"
+    "url": "/Groupomania/static/js/2.774bfddb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8a81b9ef6e2075bfbebb",
-    "url": "/Groupomania/static/js/main.dcc8cd11.chunk.js"
+    "revision": "6f6a26333d5db3a49b6f",
+    "url": "/Groupomania/static/js/main.833af301.chunk.js"
   },
   {
     "revision": "84167be0d39ff45ee2d7",
